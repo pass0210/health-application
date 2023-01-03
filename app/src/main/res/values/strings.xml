@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">운동 플래너</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string-array name="hometraining">
+        <item>초보자도 쉽게! 홈트족을 위한 홈 필라테스 운동 루틴</item>
+        <item>초보자도 쉽게! 홈트족을 위한 홈 필라테스 운동 루틴</item>
+        <item>초보자도 쉽게! 홈트족을 위한 홈 필라테스 운동 루틴</item>
+        <item>초보자도 쉽게! 홈트족을 위한 홈 필라테스 운동 루틴</item>
+        <item>초보자도 쉽게! 홈트족을 위한 홈 필라테스 운동 루틴</item>
+        <item>초보자도 쉽게! 홈트족을 위한 홈 필라테스 운동 루틴</item>
+        <item>초보자도 쉽게! 홈트족을 위한 홈 필라테스 운동 루틴</item>
+        <item>초보자도 쉽게! 홈트족을 위한 홈 필라테스 운동 루틴</item>
+        <item>초보자도 쉽게! 홈트족을 위한 홈 필라테스 운동 루틴</item>
+        <item>초보자도 쉽게! 홈트족을 위한 홈 필라테스 운동 루틴</item>
+    </string-array>
+
+    <string-array name="homedescription">
+        <item>[1일차/납작 복부 만들기]</item>
+        <item>[2일차/애플 힙 만들기]</item>
+        <item>[3일차/팔뚝살 가꾸기]</item>
+        <item>[4일차/허리 라인 가꾸기]</item>
+        <item>[5일차/다리 각선미 만들기]</item>
+        <item>[6일차/탄탄한 가슴 만들기]</item>
+        <item>[7일차/바른 척추라인 만들기]</item>
+        <item>[8일차/허벅지 안쪽 라인 만들기]</item>
+        <item>[9일차/옷태나는 어깨 라인 만들기]</item>
+        <item>[10일차/셀룰라이트·다리 붓기 제거]</item>
+    </string-array>
+    <string-array name="chicken">
+        <item>[맛있닭]</item>
+        <item>[잇메이트]</item>
+        <item>[잇메이트]</item>
+        <item>[잇메이트]</item>
+        <item>[러브잇]</item>
+        <item>[잇메이트]</item>
+        <item>[맛있닭]</item>
+        <item>[잇메이트]</item>
+        <item>[한끼통살]</item>
+        <item>[잇메이트]</item>
+    </string-array>
+
+    <string-array name="chickendescription">
+        <item>명실상부 No.1 닭가슴살 스테이크, 추가 증정</item>
+        <item>지방 DOWN↓ 단백질 UP! 닭가슴살 소시지</item>
+        <item>250g으로 든든하게, 닭가슴살 몬스터 볶음밥</item>
+        <item>입안 가-득 퍼지는 부드러움! 스팀 닭가슴살</item>
+        <item>촉촉함이 가득! 슬라이스 닭가슴살, 추가 증정</item>
+        <item>부드러움이 So Much! 소프트 닭가슴살</item>
+        <item>스팀 공법으로 속살 촉촉! 스팀 닭가슴살, 추가 증정</item>
+        <item>든든하고 맛있는 닭가슴살 현미 볶음밥 10+1</item>
+        <item>K-입맛을 저격할 특제 소스가 듬뿍! 닭가슴살 10종 15+1</item>
+        <item>육즙 가득한 고단백 소고기볼 10+1</item>
+    </string-array>
+
+    <string-array name="rating">
+        <item>평점: 4.9 (73,215)</item>
+        <item>평점: 4.9 (44,256)</item>
+        <item>평점: 4.9 (9,318)</item>
+        <item>평점: 4.9 (24,566)</item>
+        <item>평점: 4.9 (18,894)</item>
+        <item>평점: 4.9 (9,928)</item>
+        <item>평점: 4.9 (30,394)</item>
+        <item>평점: 4.9 (21,184)</item>
+        <item>평점: 4.9 (1,500)</item>
+        <item>평점: 4.9 (3,849)</item>
+    </string-array>
+
+</resources>

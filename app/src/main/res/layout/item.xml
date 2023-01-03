@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_layout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <TextView
+        android:id="@+id/day_cell"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="요일" />
+
+    <TextView
+        android:id="@+id/date_cell"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="일" />
+
+    <ImageView
+        android:id="@+id/state"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/no_data_state_circle"/>
+
+</LinearLayout>

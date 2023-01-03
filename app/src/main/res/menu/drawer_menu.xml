@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/diary_icon"
+            android:id="@+id/diary"
+            android:title="다이어리"/>
+        <item
+            android:icon="@drawable/checklist_icon"
+            android:id="@+id/healthList"
+            android:title="운동 리스트"/>
+
+        <item
+            android:icon="@drawable/chicken_icon"
+            android:id="@+id/chicken"
+            android:title="닭가슴살 추천"/>
+
+        <item
+            android:icon="@drawable/hometraining_icon"
+            android:id="@+id/homeTraining"
+            android:title="홈 트레이닝"/>
+    </group>
+</menu>
